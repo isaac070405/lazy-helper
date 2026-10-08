@@ -1,6 +1,5 @@
 ---
 name: doc-converter
-description: Convert documents between PDF, Word (.docx) and Markdown (.md) without losing major information - text, headings, tables, images/figures and equations are carried across and then verified. Use this skill whenever the user wants a file changed from one of these formats to another, in any wording - "convert this PDF to Word", "turn this paper into markdown", "make this PDF editable", "export my essay as PDF", "get this lecture PDF into Notion/notes", "extract this scanned PDF", "轉做 Word / PDF / md" - including scanned or image-only PDFs, journal articles, lecture slides, figure-heavy guides, plain-text (.txt) transcripts and the user's own assignments, even if they only attach a file and name the target format.
 ---
 
 # Document converter (PDF / DOCX / Markdown)
