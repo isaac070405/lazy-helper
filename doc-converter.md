@@ -1,7 +1,3 @@
----
-name: doc-converter
----
-
 # Document converter (PDF / DOCX / Markdown)
 
 Convert a document between PDF, Word and Markdown so that nothing important goes missing. "Important" means: all of the text in every language, the heading structure, every table (as a real table), every figure/image (with its caption), every equation (readable, and editable where the target allows), and small state such as ticked checkboxes. Fonts, colours, exact page layout and running headers/footers are not important and may change.
